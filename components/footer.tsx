@@ -64,7 +64,7 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start">
                 <Phone size={18} className="text-blue-600 mr-2 mt-1" />
-                <span className="text-gray-600">+91 98765 43210</span>
+                <span className="text-gray-600">+91 8077018989</span>
               </li>
               <li className="flex items-start">
                 <Mail size={18} className="text-blue-600 mr-2 mt-1" />
@@ -72,7 +72,7 @@ export default function Footer() {
               </li>
               <li className="flex items-start">
                 <MapPin size={18} className="text-blue-600 mr-2 mt-1" />
-                <span className="text-gray-600">123 Medical Plaza, Sector 15, New Delhi, India</span>
+                <span className="text-gray-600">Ground Floor, Apex Acacia Valley, D-3, opp. Hiralal Halwai, Block C, Sector 3, Vaishali, Ghaziabad, Uttar Pradesh 201019</span>
               </li>
               <li className="flex items-start">
                 <Clock size={18} className="text-blue-600 mr-2 mt-1" />
