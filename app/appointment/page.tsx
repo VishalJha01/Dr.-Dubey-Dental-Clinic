@@ -310,7 +310,7 @@ export default function AppointmentPage() {
 
                 {/* Consultation Fee */}
                 <div className="bg-blue-50 p-4 rounded-md">
-                  <p className="font-medium text-blue-800">Consultation Fee: ₹899</p>
+                  <p className="font-medium text-blue-800">Consultation Fee: ₹299</p>
                   <p className="text-sm text-gray-600">The fee is payable at the clinic during your appointment.</p>
                 </div>
 
